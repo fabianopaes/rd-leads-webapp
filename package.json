@@ -4,7 +4,7 @@
   "description": "Simple Webapp to validate rd-guest-navegate-tracker lib",
   "main": "index.js",
   "scripts": {
-
+    "start": "http-server ./ -a localhost -p 8080 -d "
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/fabianopaes/rd-leads-webapp/issues"
   },
-  "homepage": "https://github.com/fabianopaes/rd-leads-webapp#readme"
+  "homepage": "https://github.com/fabianopaes/rd-leads-webapp#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "http-server": "^0.11.1",
+    "start": "^5.1.0"
+  }
 }

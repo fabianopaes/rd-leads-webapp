@@ -1,0 +1,8 @@
+.tmp/
+dist/
+node_modules
+app/lib/
+*.zip
+.DS_Store
+.DS_Store?
+
