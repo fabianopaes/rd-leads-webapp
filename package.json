@@ -1,0 +1,19 @@
+{
+  "name": "rd-leads-webapp",
+  "version": "1.0.0",
+  "description": "Simple Webapp to validate rd-guest-navegate-tracker lib",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabianopaes/rd-leads-webapp.git"
+  },
+  "author": "fabianopaes@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabianopaes/rd-leads-webapp/issues"
+  },
+  "homepage": "https://github.com/fabianopaes/rd-leads-webapp#readme"
+}
